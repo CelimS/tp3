@@ -14,3 +14,5 @@ Avant de commencer à créer le site Web, vous trouverez ci-dessous certains él
 - Pour la réalisation du site web sur github, l'équipe doit être organisée.
 
 ![Texte alternatif](https://avatars.githubusercontent.com/u/166305456?v=4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
