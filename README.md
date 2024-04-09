@@ -12,3 +12,5 @@ Avant de commencer à créer le site Web, vous trouverez ci-dessous certains él
 - Pour la SAE vous allez vous organiser en équipes de minimum 3 personnes et maximum 4.
 - Le non respect du nombre de membres de l'équipe entraîne une pénalité dans le grade.
 - Pour la réalisation du site web sur github, l'équipe doit être organisée.
+
+![Texte alternatif](https://avatars.githubusercontent.com/u/166305456?v=4)
