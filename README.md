@@ -1,3 +1,11 @@
-nik ta mère la méchante qui ne veut pas que ça marche 
+# Titre 1
 
-nvhjtrfhjerzuhdeshfverufuezf
+## Titre 2
+
+### Titre 3
+
+Ceci est un paragraphe avec *texte en italique* et **texte en gras**.
+
+- Liste 1
+- Liste 2
+- Liste 3
